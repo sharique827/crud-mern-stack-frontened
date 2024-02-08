@@ -1,0 +1,32 @@
+.background{
+    background-color: purple;
+}
+.log{
+    text-decoration: none;
+    margin-left: 10px;
+}
+.ml{
+    padding-right: 25px;
+    padding-left:  25px;
+}
+.side{
+    margin-left: 370px;
+}
+.under{
+    text-decoration: none;
+}
+.marginleft{
+    margin-left: 5px;
+    padding: 0ch;
+    margin-bottom: 2px;
+}
+.captcha{
+    background-color:rgb(199, 191, 191);
+    font-weight: 700;
+    font-style:oblique;
+    font-family:'Courier New', Courier, monospace;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 4px;
+    padding-bottom: 3px;
+}
